@@ -19,6 +19,9 @@ A simple to-do list application built with HTML, CSS, and JavaScript.
    ```sh
    git clone https://github.com/simon-dez/vanilla-todo-list-app.git
 
+2. Open index.html in your web browser.
+
+
 ### Live Demo
 
 You can view the live demo of the app [here](https://simon-dez.github.io/vanilla-todo-list-app/).
